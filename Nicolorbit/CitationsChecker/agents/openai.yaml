@@ -1,7 +1,0 @@
-interface:
-  display_name: "Nicolorbit Check Citations"
-  short_description: "Reconcile and highlight APA citation mismatches"
-  default_prompt: "Use $nicolorbit-check-citations to compare this article with its reference list, repair verified omissions, and highlight unresolved mismatches."
-policy:
-  allow_implicit_invocation: true
-
