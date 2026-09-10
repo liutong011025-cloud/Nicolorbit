@@ -1,0 +1,7 @@
+interface:
+  display_name: "Nicolorbit Translate PPT"
+  short_description: "Translate PPTs while preserving their original design"
+  default_prompt: "Use $nicolorbit-translate-ppt to translate this presentation into English while preserving its style and layout."
+policy:
+  allow_implicit_invocation: true
+
