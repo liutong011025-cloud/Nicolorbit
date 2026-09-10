@@ -1,0 +1,7 @@
+interface:
+  display_name: "Nicolorbit Find Literature"
+  short_description: "Add verified research and APA 7 citations"
+  default_prompt: "Use $nicolorbit-find-literature to add verified scholarly support and APA 7 citations to this manuscript."
+policy:
+  allow_implicit_invocation: true
+

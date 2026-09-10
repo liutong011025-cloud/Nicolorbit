@@ -1,0 +1,7 @@
+interface:
+  display_name: "Nicolorbit Create PPT"
+  short_description: "Extend PPTs with sourced visual content"
+  default_prompt: "Use $nicolorbit-create-ppt to add this material to my presentation while matching its style and citing every source."
+policy:
+  allow_implicit_invocation: true
+
